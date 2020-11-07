@@ -1,5 +1,7 @@
 # FNew Standards
-
+<h1 color="red">FNew is stopping!</h1>
+	<p color="red"><b>FNew is not being used at all but costs me (Marnix Bloeiman) money, for the past year I hoped to bring change into that, but today I decided to stop FNew and it's services, as well as developement of ALL versions.<br><big> FNEW WILL GO OFFLINE ON 2021-11-22.</b></p>
+	
 ## About
 ### What
 The FNew standards are used to define how the FNew web site should be coded and stylized.
